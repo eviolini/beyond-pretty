@@ -1,9 +1,11 @@
 /**
  * UX theme for reveal.js.
- * Author: iviolini
+ * Author: itsjusteileen
  */
+
 @import url('https://fonts.googleapis.com/css?family=Major+Mono+Display&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,500,700|Roboto:400,500,700,900&display=swap');
+
 
 html * {
   color-profile: sRGB;
