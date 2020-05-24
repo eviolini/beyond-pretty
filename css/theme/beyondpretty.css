@@ -126,7 +126,6 @@ body {
 
 .reveal ul.social-icons {
   list-style-type: none;
-  /*transform: rotate(-90deg);*/
   display: inline-flex;
 }
 
@@ -286,7 +285,7 @@ h1.overtext {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #B475DD;
+  color: #f49d00;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
